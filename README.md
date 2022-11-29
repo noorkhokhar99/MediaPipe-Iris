@@ -2,11 +2,11 @@
 
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/pothole-detection.git
+git clone https://github.com/noorkhokhar99/MediaPipe-Iris.git
 ```
 - Goto the cloned folder.
 ```
-cd pothole-detection
+cd MediaPipe-Iris
 
 ```
 - Upgrade pip with mentioned command below.
@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 - Run the code with mentioned command below.
 
-` python camera_video.py`
+` python demo.py`
 
 
 
